@@ -1,3 +1,3 @@
 # connexionapi
-Apprentissage connexion API
-Révisions écrire/appeller fonctions
+Apprentissage création page web avec connexion API.
+. Révisions écrire/appeller fonctions.
